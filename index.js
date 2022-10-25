@@ -17,3 +17,4 @@ class Aayan{
 const msg = new Aayan()
 msg.callAayan()
 
+msg.blockAayan()
